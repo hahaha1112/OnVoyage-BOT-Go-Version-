@@ -1,0 +1,5 @@
+tokens.txt
+proxy.txt
+*.log
+*.exe
+*.out
